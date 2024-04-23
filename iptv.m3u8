@@ -1,31 +1,29 @@
 #EXTM3U
-#EXTINF:0,4U TV (720p)
+#EXTINF:0,4U TV
 https://hls.4utv.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,AFN TV (720p) [Not 24/7]
+#EXTINF:0,AFN TV [Not 24/7]
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,AVA Family (720p) [Not 24/7]
+#EXTINF:0,AVA Family [Not 24/7]
 https://familyhls.avatv.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,AVA Series (720p)
+#EXTINF:0,AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Bravo Farsi TV (360p)
-https://bravoohls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Cafe Trade TV (720p)
+#EXTINF:0,Cafe Trade TV
 https://cafetradehls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Channel Yek (720p)
+#EXTINF:0,Channel Yek
 https://ch1hls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,FX TV (720p)
+#EXTINF:0,FX TV
 https://fxtvhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,FX2 Farsi
+#EXTINF:0,FX TV 2
 https://toonixhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,GLV
 https://38b3095.online-server.cloud/hls/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Health Media TV (720p)
+#EXTINF:0,Health Media TV
 https://6n3yowknl9ok-hls-live.5centscdn.com/HMN/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,High Vision (1080p) [Not 24/7]
+#EXTINF:0,High Vision [Not 24/7]
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0,ITN (720p) [Not 24/7]
+#EXTINF:0,ITN [Not 24/7]
 https://itnhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Iran International (720)
 https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index_10.m3u8
@@ -47,28 +45,44 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:0,Simaye Azadi
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
-#EXTINF:0,IraneFarda TV (576p)
+#EXTINF:0,IraneFarda TV
 https://hls.iranfarda.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Kalemeh TV
 https://5e11be0b2c93a.streamlock.net/live/ngrp:kalemeh_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Kanal Jadid (720p)
+#EXTINF:0,Kanal Jadid
 https://kjhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Meta Film TV (1080p)
+#EXTINF:0,Meta Film TV
 https://metafilmhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Mihan TV (720p)
+#EXTINF:0,Mihan TV
 https://iptv.mihantv.com/mihantv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Mohabat TV
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,OXIR TV (720p)
+#EXTINF:0,OXIR TV
 https://hls.oxir.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Omide Iran (720p) [Not 24/7]
+#EXTINF:0,Omide Iran [Not 24/7]
 https://oitnhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Pars
 https://parshls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Payam Javan TV
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Persiana 4Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Shabakeh 7
+https://t.northtelecom.org/Shabakeh.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Royal Time Television
+https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Payame Aramesh TV
+https://hls.keshishhamid.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Today TV
+https://todayhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,SL 1
+https://slonehls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,SL 2
+https://sltwohls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sat 7 Pars
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TM TV
+https://hls.tmtv.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Tin TV [Not 24/7]
+https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Persiana Family
@@ -81,42 +95,38 @@ https://irhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 https://junhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Persiana Latino (720p)
+#EXTINF:0,Persiana Latino
 https://latinohls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Persiana Two
+https://twohls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
+
+
 #EXTINF:0,Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Persiana Nostalgia
-https://noshls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Persiana Rap
 https://raphls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Persiana Sonnati
 https://sonhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Persiana Two (720p)
-https://twohls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Shabakeh 7 (576p)
-https://t.northtelecom.org/Shabakeh.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Royal Time Television (1080p)
-https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Payam-e-Afghan TV (480p) [Not 24/7]
-https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Payame Aramesh TV (720p)
-https://hls.keshishhamid.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Persiana Nostalgia
+https://noshls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Persiana 4Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,AFN MUSIC IRAN
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Today TV (720p)
-https://todayhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Radio Javan TV (1080p)
+#EXTINF:0,Radio Javan TV
 http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,SL 1 (720p)
-https://slonehls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,SL 2 (720p)
-https://sltwohls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Sat 7 Pars
-https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0,TM TV (720p)
-https://hls.tmtv.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Tin TV (720p) [Not 24/7]
-https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Qmusic HD
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0,SPIRIT TV MUSIC
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Stingray Hip Hop
+https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Stingray Greatest Hits
+https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Stingray Today's Latin Pop
+https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8?checkedby:iptvcat.com
+
+
 #EXTINF:0,Dubai Sports 1
 https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Dubai Sports 2
@@ -131,12 +141,28 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m
 http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,ATG
+#EXTINF:0,ATG TV
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sportsgrid
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Russian Motorsport Television
 https://autopilot.catcast.tv/content/37909/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0,All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MAVTV Motor Sports UK
+https://amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten-ozity.amagi.tv/playlist/amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,We Love Cars
+https://30a-tv.com/feeds/vidaa/cars.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8&checkedby:iptvcat.com
+#EXTINF:0,Outside TV
+https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Fox Deportes
+http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,All Sports Television Network
+https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8?checkedby:iptvcat.com
+
+
 #EXTINF:0,National Geographic Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:0,EUA
@@ -145,73 +171,17 @@ https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
 https://www.djing.com/tv/s-28634-05-wild-edm.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,WildEarth (1080p)
+#EXTINF:0,WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,EarthCam SouthView
 http://tvpremiumhd.club/lista-gratuita/221424/tv/live.php?id=video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8&checkedby:iptvcat.com
-#EXTINF:0,NASA TV [HD]
+#EXTINF:0,Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Number 1 DANCE
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Oxygen Music (1080p)
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Qmusic HD
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8?checkedby:iptvcat.com
-#EXTINF:0,SPIRIT TV MUSIC
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Stingray Hip Hop
-https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Stingray Greatest Hits
-https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Stingray Today's Latin Pop
-https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Canal Motor (720p)
-https://digicom.hls.iptvdc.com/motorstv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0,ESR eSports Network
-https://eyeonesports.com/ES2RA-628g.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Outside TV
-https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8&checkedby:iptvcat.com
-#EXTINF:0,ATG TV
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Sportsgrid
-https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Trace Sport Stars (Australia)
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Матч! ТВ
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&checkedby:iptvcat.com
-#EXTINF:0,Fox Deportes
-http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,MAVTV Motor Sports UK
-https://amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten-ozity.amagi.tv/playlist/amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,All Sports Television Network
-https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,WAPA Deportes
-https://live.field59.com/wapa/wapa2/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Whacked Out Sports (720p)
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/whackedoutsports_720p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Motorbikes & Engines
-https://motors.playout.vju.tv/motors/main.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Motors TV
-https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0,We Love Cars
-https://30a-tv.com/feeds/vidaa/cars.m3u8?checkedby:iptvcat.com
+
+
 #EXTINF:0,Tastemade International
 https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Nickelodeon East (720p)
-http://143.244.60.30/NICKELODEON/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0,History
-http://stream.flynetwifi.com:1935/live/mobile-058/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Paragliding TV
-https://paraglidingtv.playout.vju.tv/paraglidingtv/main.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Amazon Sat (1080p)
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Ifood
 https://ifood-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Game+ (720p)
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/fntsy_720p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Game Show Network East (720p) [Not 24/7]
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Dove Channel
-https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8?checkedby:iptvcat.com
