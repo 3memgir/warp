@@ -33,10 +33,6 @@ https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/in
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0,VOA Farsi
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0720.m3u8
-#EXTINF:0,Aio Sport
-https://live.aionet.ir/hls/aiosport/aiosport.m3u8
-#EXTINF:0,PMC Royale
-https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:0,Maah TV
 https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:0,MBC Persia
@@ -111,6 +107,10 @@ https://sonhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 https://noshls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Persiana 4Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Iran Beauty
+https://irbthls.wns.live/hls/stream.m3u8
+#EXTINF:0,PMC Royale
+https://rohls.pmc.live/hls/stream.m3u8
 #EXTINF:0,AFN MUSIC IRAN
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Radio Javan TV
@@ -127,6 +127,8 @@ https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8?checkedby:iptvcat.com
 https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8?checkedby:iptvcat.com
 
 
+#EXTINF:0,Aio Sport
+https://live.aionet.ir/hls/aiosport/aiosport.m3u8
 #EXTINF:0,Dubai Sports 1
 https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Dubai Sports 2
