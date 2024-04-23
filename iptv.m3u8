@@ -137,16 +137,34 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 https://autopilot.catcast.tv/content/37909/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Djing Wild EDM HD
-https://www.djing.com/tv/s-28634-05-wild-edm.m3u8?checkedby:iptvcat.com
 #EXTINF:0,National Geographic Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0,EUA
+https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Djing Wild EDM
+https://www.djing.com/tv/s-28634-05-wild-edm.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,WildEarth (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,EarthCam SouthView
 http://tvpremiumhd.club/lista-gratuita/221424/tv/live.php?id=video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8&checkedby:iptvcat.com
+#EXTINF:0,NASA TV [HD]
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Number 1 DANCE
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Oxygen Music (1080p)
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Qmusic HD
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0,SPIRIT TV MUSIC
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Stingray Hip Hop
+https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Stingray Greatest Hits
+https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Stingray Today's Latin Pop
+https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Canal Motor (720p)
 https://digicom.hls.iptvdc.com/motorstv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,ESR eSports Network
@@ -191,29 +209,9 @@ https://paraglidingtv.playout.vju.tv/paraglidingtv/main.m3u8?checkedby:iptvcat.c
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Ifood
 https://ifood-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Number 1 DANCE
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Oxygen Music (1080p)
-https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Qmusic HD
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8?checkedby:iptvcat.com
-#EXTINF:0,SPIRIT TV MUSIC
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0,30A Music
-https://30a-tv.com/music.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Game+ (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/fntsy_720p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Game Show Network East (720p) [Not 24/7]
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Dove Channel
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Stingray Hip Hop
-https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Stingray Greatest Hits
-https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Stingray Today's Latin Pop
-https://i.mjh.nz/SamsungTVPlus/USBD3500009Y3.m3u8?checkedby:iptvcat.com
-#EXTINF:0,EUA
-https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,NASA TV [HD]
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?checkedby:iptvcat.com
