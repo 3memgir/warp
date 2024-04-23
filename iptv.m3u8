@@ -31,6 +31,12 @@ https://itnhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index_10.m3u8
 #EXTINF:0,Iran International (480)
 https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index_9.m3u8
+#EXTINF:0,BBC Persian
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:0,VOA Farsi
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0720.m3u8
+#EXTINF:0,PMC
+https://gg.hls2.xyz/live/AP%20PMC%20HD/chunks.m3u8?nimblesessionid=951776
 #EXTINF:0,Iran Jewish TV (720p)
 http://iran620.com:1935/live/IranJewishTv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,IraneFarda TV (576p)
