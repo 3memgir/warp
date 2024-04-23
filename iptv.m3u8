@@ -95,8 +95,20 @@ https://raphls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 https://sonhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Persiana Two (720p)
 https://twohls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Poker TV (720p)
-https://hls.pokertvfa.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Shabakeh 7 (576p)
+https://t.northtelecom.org/Shabakeh.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Royal Time Television (1080p)
+https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Payam-e-Afghan TV (480p) [Not 24/7]
+https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Payame Aramesh TV (720p)
+https://hls.keshishhamid.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,AFN MUSIC IRAN
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Eslah TV (720p)
+https://eslahtvhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Today TV (720p)
+https://todayhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Radio Javan TV (1080p)
 http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,SL 1 (720p)
@@ -109,8 +121,8 @@ https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_s
 https://hls.tmtv.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Tin TV (720p) [Not 24/7]
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Today TV (720p)
-https://todayhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Poker TV (720p)
+https://hls.pokertvfa.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,DUBAI SPORTS 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,DUBAI SPORTS 3 (1080p)
@@ -151,7 +163,7 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:iptv
 http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,MAVTV Motor Sports UK
 https://amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten-ozity.amagi.tv/playlist/amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,W14DK-D 14.5 All Sports Television Network
+#EXTINF:0,All Sports Television Network
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,WAPA-DT2 (WAPA Deportes) (1080p)
 https://live.field59.com/wapa/wapa2/playlist.m3u8?checkedby:iptvcat.com
@@ -185,14 +197,10 @@ https://paraglidingtv.playout.vju.tv/paraglidingtv/main.m3u8?checkedby:iptvcat.c
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Ifood
 https://ifood-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Eslah TV (720p)
-https://eslahtvhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Number 1 DANCE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Oxygen Music (1080p)
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8?checkedby:iptvcat.com
-#EXTINF:0,AFN MUSIC IRAN
-https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Qmusic HD
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8?checkedby:iptvcat.com
 #EXTINF:0,SPIRIT TV MUSIC
@@ -205,14 +213,6 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/fntsy_720p/playlist.m3u8?ch
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Dove Channel
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Payam-e-Afghan TV (480p) [Not 24/7]
-https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Payame Aramesh TV (720p)
-https://hls.keshishhamid.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Royal Time Television (1080p)
-https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Shabakeh 7 (576p)
-https://t.northtelecom.org/Shabakeh.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Stingray Hip Hop
 https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Stingray Greatest Hits
