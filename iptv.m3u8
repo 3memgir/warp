@@ -27,10 +27,10 @@ https://6n3yowknl9ok-hls-live.5centscdn.com/HMN/271ddf829afeece44d8732757fba1a66
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,ITN (720p) [Not 24/7]
 https://itnhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Iran International
+#EXTINF:0,Iran International (720)
+https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index_10.m3u8
+#EXTINF:0,Iran International (480)
 https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index_9.m3u8
-#EXTINF:0,Iran International
-https://1681299670.rsc.cdn77.org/LS-63503-4/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Iran Jewish TV (720p)
 http://iran620.com:1935/live/IranJewishTv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,IraneFarda TV (576p)
