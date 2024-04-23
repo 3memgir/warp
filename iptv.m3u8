@@ -183,3 +183,69 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?check
 https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Ifood
 https://ifood-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0,IRIB Yazd
+https://t2-cdn.sepehrtv.ir/securelive3/tabansd/576p.m3u8?s=zxFaWJuixpg7_G_Ut569_g&t=1713906857
+#EXTINF:0,IRIB Zanjan
+https://t3-cdn.eirib.ir/securelive3/eshraghsd/576p.m3u8?s=N9crbbUh8Y3MoXWGeNx53A&t=1713906857
+#EXTINF:0,IRIB Abadan
+https://t2-cdn.sepehrtv.ir/securelive3/abadansd/576p.m3u8?s=f4nl-ipiR_YSxKe6pezXDw&t=1713906939
+#EXTINF:0,IRIB Alborz
+https://t3-cdn.eirib.ir/securelive3/alborzsd/576p.m3u8?s=NcKKzthVkEKFh_U8q0wEQQ&t=1713906940
+#EXTINF:0,IRIB Ardebil
+https://s2-cdn.sepehrtv.ir/securelive3/sabalansd/576p.m3u8?s=RPcQAeQ8TJr7olgdq2PSMA&t=1713906941
+#EXTINF:0,IRIB Bojnourd
+https://s4-cdn.sepehrtv.ir/securelive3/khorasanshomalisd/576p.m3u8?s=5Za1WxC2LEuaIKHmk3yIeA&t=1713906941
+#EXTINF:0,IRIB Booshehr
+https://t3-cdn.eirib.ir/securelive3/booshehrsd/576p.m3u8?s=Q8iAyYD6AVm1DCElZiDeiw&t=1713907313
+#EXTINF:0,IRIB Chahar Mahal
+https://t1-cdn.sepehrtv.ir/securelive3/jahanbinsd/576p.m3u8?s=Y2tFJwalH3YT2fJR8QvBXA&t=1713907313
+#EXTINF:0,IRIB Esfahan
+https://t2-cdn.sepehrtv.ir/securelive3/esfehansd/576p.m3u8?s=YufTcylnckgaPOD1zw1Q8Q&t=1713907184
+#EXTINF:0,IRIB Fars
+https://s3-cdn.sepehrtv.ir/securelive3/farssd/576p.m3u8?s=oT0jyg_6f87tnXr-3IzUbw&t=1713907462
+#EXTINF:0,IRIB Gilan
+https://t1-cdn.sepehrtv.ir/securelive3/baransd/576p.m3u8?s=v5l7zSBO2nIWkcaA-fs2ig&t=1713907485
+#EXTINF:0,IRIB Golestan
+https://t1-cdn.sepehrtv.ir/securelive3/golestansd/576p.m3u8?s=OybaKwTqy0tm3jARme7cIQ&t=1713907438
+#EXTINF:0,IRIB Hamedan
+https://t2-cdn.sepehrtv.ir/securelive3/hamedansd/576p.m3u8?s=5Gd0OK-qh6g5pNeLrWMO0w&t=1713907444
+#EXTINF:0,IRIB Mashhad
+https://t3-cdn.eirib.ir/securelive3/khorasanrazavisd/576p.m3u8?s=-ffBGMkugE1qkA2clWn8UA&t=1713907447
+#EXTINF:0,IRIB Kurdestan
+https://t1-cdn.sepehrtv.ir/securelive3/kordestansd/576p.m3u8?s=w-sxjAV2iOKyeMRQ5aq4Hg&t=1713907440
+#EXTINF:0,IRIB Lorestan
+https://t3-cdn.eirib.ir/securelive3/aflaksd/576p.m3u8?s=G0Wo3Ov3rofU99_j8CLv0g&t=1713907723
+#EXTINF:0,IRIB Kermanshah
+https://t2-cdn.sepehrtv.ir/securelive3/kermanshahsd/576p.m3u8?s=zlQ-sTT46pVNsb_38AWx-w&t=1713907723
+#EXTINF:0,IRIB Kish
+https://t3-cdn.eirib.ir/securelive3/kishsd/576p.m3u8?s=XRgk3kGv6vafIgYwbYqRqQ&t=1713907723
+#EXTINF:0,IRIB Hormozgan
+https://s2-cdn.sepehrtv.ir/securelive3/khalijefarssd/576p.m3u8?s=KZGxcDdGmmfC0hopVNvd9w&t=1713907725
+#EXTINF:0,IRIB Ilam
+https://s3-cdn.sepehrtv.ir/securelive3/ilamsd/576p.m3u8?s=eXIY06RYoo-euWnQOp93aA&t=1713907815
+#EXTINF:0,IRIB Kerman
+https://t2-cdn.sepehrtv.ir/securelive3/kermansd/576p.m3u8?s=wN0tyMsEqA833zJ91Fh3bA&t=1713907815
+#EXTINF:0,IRIB Mashhad
+https://s2-cdn.sepehrtv.ir/securelive3/khorasanrazavisd/576p.m3u8?s=fsAwCalp1Dvx0NwZDkvkaw&t=1713907815
+#EXTINF:0,IRIB Khoozestan
+https://t3-cdn.eirib.ir/securelive3/khoozestansd/576p.m3u8?s=vR9Q9t39BRzWxCmoCVCoDg&t=1713907822
+#EXTINF:0,IRIB Markazi
+https://t2-cdn.sepehrtv.ir/securelive3/aftabsd/576p.m3u8?s=cCGWMUVP60Fsdu9yw3XLFQ&t=1713907823
+#EXTINF:0,IRIB Mazandaran
+https://t2-cdn.sepehrtv.ir/securelive3/mazandaransd/576p.m3u8?s=7IQ5tvivUL2i1vZgP3NXZQ&t=1713908064
+#EXTINF:0,IRIB Qazvin
+https://s3-cdn.sepehrtv.ir/securelive3/qazvinsd/576p.m3u8?s=bFiwmvWZJvqwg9jo7vfCJA&t=1713908065
+#EXTINF:0,IRIB Qom
+https://t2-cdn.sepehrtv.ir/securelive3/noorsd/576p.m3u8?s=uiHDmXKAXkQgXIzrmM9N3g&t=1713908066
+#EXTINF:0,IRIB Semnan
+https://t2-cdn.sepehrtv.ir/securelive3/semnansd/576p.m3u8?s=u42hBkZbnBxNO6cqMXR4MQ&t=1713908067
+#EXTINF:0,IRIB Sistan
+https://t1-cdn.sepehrtv.ir/securelive3/hamoonsd/576p.m3u8?s=ucB3oNf_bIM8nNnGtsDOPQ&t=1713908068
+#EXTINF:0,IRIB Sahand
+https://t3-cdn.eirib.ir/securelive3/sahandsd/576p.m3u8?s=Og_WLlOx4JtiuCNKVZUKuQ&t=1713908203
+#EXTINF:0,IRIB Azarbayejan
+https://s3-cdn.sepehrtv.ir/securelive3/azarbayjansd/576p.m3u8?s=MqiX_YbuQTjy-YDBmzvD8A&t=1713908205
+#EXTINF:0,IRIB Yasooj
+https://s4-cdn.sepehrtv.ir/securelive3/denasd/576p.m3u8?s=wXhm7WbW-QNho168cf-RYg&t=1713908206
