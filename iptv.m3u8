@@ -137,10 +137,18 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 https://autopilot.catcast.tv/content/37909/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Djing Wild EDM HD
+https://www.djing.com/tv/s-28634-05-wild-edm.m3u8?checkedby:iptvcat.com
+#EXTINF:0,National Geographic Wild
+http://stream02.vnet.am/NatGeoWild/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Real Wild
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,WildEarth (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,EarthCam SouthView
+http://tvpremiumhd.club/lista-gratuita/221424/tv/live.php?id=video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8&checkedby:iptvcat.com
 #EXTINF:0,Canal Motor (720p)
 https://digicom.hls.iptvdc.com/motorstv/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Dubai Racing 2 (1080p)
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,ESR eSports Network
 https://eyeonesports.com/ES2RA-628g.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Outside TV
@@ -161,7 +169,7 @@ http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8?checkedby:iptvca
 https://amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten-ozity.amagi.tv/playlist/amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,All Sports Television Network
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,WAPA-DT2 (WAPA Deportes) (1080p)
+#EXTINF:0,WAPA Deportes
 https://live.field59.com/wapa/wapa2/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Whacked Out Sports (720p)
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/whackedoutsports_720p/playlist.m3u8?checkedby:iptvcat.com
@@ -169,17 +177,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live3/whackedoutsports_720p/playl
 https://motors.playout.vju.tv/motors/main.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Motors TV
 https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Djing Wild EDM HD
-https://www.djing.com/tv/s-28634-05-wild-edm.m3u8?checkedby:iptvcat.com
-#EXTINF:0,National Geographic Wild
-http://stream02.vnet.am/NatGeoWild/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Real Wild
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,WildEarth (1080p)
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,EarthCam SouthView
-http://tvpremiumhd.club/lista-gratuita/221424/tv/live.php?id=video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8&checkedby:iptvcat.com
-#EXTINF:0,30A We Love Cars
+#EXTINF:0,We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Tastemade International
 https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
