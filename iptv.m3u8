@@ -47,8 +47,6 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:0,Simaye Azadi
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
-#EXTINF:0,Iran Jewish TV (720p)
-http://iran620.com:1935/live/IranJewishTv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,IraneFarda TV (576p)
 https://hls.iranfarda.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Kalemeh TV
@@ -105,8 +103,6 @@ https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b0861
 https://hls.keshishhamid.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,AFN MUSIC IRAN
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Eslah TV (720p)
-https://eslahtvhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Today TV (720p)
 https://todayhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Radio Javan TV (1080p)
@@ -121,15 +117,21 @@ https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_s
 https://hls.tmtv.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Tin TV (720p) [Not 24/7]
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Poker TV (720p)
-https://hls.pokertvfa.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,DUBAI SPORTS 2
+#EXTINF:0,Dubai Sports 1
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Dubai Sports 2
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,DUBAI SPORTS 3 (1080p)
+#EXTINF:0,Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Dubai Racing 1
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Dubai Racing 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sharjah Sport
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8?checkedby:iptvcat.com
-#EXTINF:0,A21 Network : Russian Motorsport Television
+#EXTINF:0,Russian Motorsport Television
 https://autopilot.catcast.tv/content/37909/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8?checkedby:iptvcat.com
@@ -142,8 +144,6 @@ https://eyeonesports.com/ES2RA-628g.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Outside TV
 https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Red Bull TV (720p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8&checkedby:iptvcat.com
 #EXTINF:0,ATG TV
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8?checkedby:iptvcat.com
@@ -153,12 +153,6 @@ https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Матч! ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&checkedby:iptvcat.com
-#EXTINF:0,Dubai Racing 2
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Dubai Sports 1 (1080p)
-https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Sharjah Sport
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Fox Deportes
 http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,MAVTV Motor Sports UK
