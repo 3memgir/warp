@@ -117,11 +117,11 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m
 https://eyeonesports.com/ES2RA-628g.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country=“UN” tvg-logo=“” group-title=“All”,Outside TV
 https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country=“UN” tvg-logo=“” group-title=“All”,Red Bull TV,SPORT : Red Bull TV,SPORT | Red Bull TV
+#EXTINF:0 tvg-country=“UN” tvg-logo=“” group-title=“All”,Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country=“UN” tvg-logo=““ group-title=“All”,Red Bull TV (720p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8&checkedby:iptvcat.com
-#EXTINF:0 tvg-country=“UN” tvg-logo=“” group-title=“All”,SPORT : ATG TV,SPORT | ATG TV
+#EXTINF:0 tvg-country=“UN” tvg-logo=“” group-title=“All”,SPORT : ATG TV
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country=“UN” tvg-logo=““ group-title=“All”,Sportsgrid
 https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
@@ -133,7 +133,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2&checke
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country=“AE” tvg-logo=“” group-title=“All”,Dubai Sports 1 (1080p)
 https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country=“AE” tvg-logo=“” group-title=“All”,Sharjah Sport,Sharjah Sports
+#EXTINF:0 tvg-country=“AE” tvg-logo=“” group-title=“All”,Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country=“US” tvg-logo=“” group-title=“All”,Fox Deportes
 http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8?checkedby:iptvcat.com
