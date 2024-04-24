@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:0,4U TV
 https://hls.4utv.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MTC
+https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:0,Royal Citizen
+https://royal-citizen.icdndhcp.com/hls/stream.m3u8
 #EXTINF:0,AFN TV [Not 24/7]
 https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,AVA Family [Not 24/7]
@@ -9,7 +13,7 @@ https://familyhls.avatv.live/hls/stream.m3u8?checkedby:iptvcat.com
 https://avaserieshls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Cafe Trade TV
 https://cafetradehls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Channel Yek
+#EXTINF:0,Channel One
 https://ch1hls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,FX TV
 https://fxtvhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
@@ -33,52 +37,76 @@ https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/in
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:0,VOA Farsi
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0720.m3u8
+#EXTINF:0,Novin TV
+https://novin-tv.icdndhcp.com/hls/playlist.m3u8
+#EXTINF:0,Irane Farda
+https://hls.iranfarda.live/hls/stream.m3u8
+#EXTINF:0,Peyvand TV
+https://uni6rtmp.tulix.tv/ucur1/Payvand/tracks-v1a1/mono.m3u8
+#EXTINF:0,Hasti TV
+https://live.hastitv.com/hls/livetv.m3u8
+#EXTINF:0,Parnian TV
+https://live2.parnian.tv/hls/live/play.m3u8
 #EXTINF:0,Maah TV
 https://hls.maahtv.live/hls/stream.m3u8
 #EXTINF:0,MBC Persia
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:0,Tapesh 2
+https://t2hls.wns.live/hls/stream.m3u8
 #EXTINF:0,YourTime TV
 https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:0,Simaye Azadi
-https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8
+https://simaytv.akamaized.net/hls/live/2043550/simayhls/02.m3u8
 #EXTINF:0,IraneFarda TV
 https://hls.iranfarda.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Kalemeh TV
-https://5e11be0b2c93a.streamlock.net/live/ngrp:kalemeh_all/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Kanal Jadid
 https://kjhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Meta Film TV
-https://metafilmhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
+https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:0,Mihan TV
 https://iptv.mihantv.com/mihantv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Mohabat TV
-http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,OXIR TV
-https://hls.oxir.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ICC TV
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:0,Negah TV
+https://iptv.negahtv.com/negahtv/playlist_mid/index.m3u8
+#EXTINF:0,Nama TV
+https://namahls.wns.live/hls/stream.m3u8
 #EXTINF:0,Omide Iran [Not 24/7]
 https://oitnhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Pars
 https://parshls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,GordAfarid TV
+https://gatvhls.wns.live/hls/stream.m3u8
 #EXTINF:0,Payam Javan TV
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8?checkedby:iptvcat.com
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w87401535.m3u8
 #EXTINF:0,Shabakeh 7
 https://t.northtelecom.org/Shabakeh.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Royal Time Television
 https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Payame Aramesh TV
-https://hls.keshishhamid.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Today TV
 https://todayhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,SL 1
-https://slonehls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
+https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:0,SL 2
-https://sltwohls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
+https://sltwohls.wns.live/hls/stream.m3u8
+#EXTINF:0,Classic TV
+https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:0,Tasvire Iran
+https://bozztv.com/1gbw5/tintv/tintv/chunklist.m3u8
+#EXTINF:0,Damac TV
+https://damac-tv.icdndhcp.com/hls/stream.m3u8
+#EXTINF:0,Me2 TV
+https://me2hls.wns.live/hls/stream.m3u8
 #EXTINF:0,Sat 7 Pars
 https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0,TM TV
 https://hls.tmtv.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Tin TV [Not 24/7]
-https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8?checkedby:iptvcat.com
+https://bozztv.com/1gbw5/tintv/tintv/chunklist.m3u8
+#EXTINF:0,ITC TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5e335e0f951c45c39563b840fdecc59a/chunklist_b2592000.m3u8
+#EXTINF:0,Toronto Farsi Network
+https://tfnhls.wns.live/hls/stream.m3u8
 #EXTINF:0,Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Persiana Family
@@ -93,8 +121,10 @@ https://junhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 https://korhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Persiana Latino
 https://latinohls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Persiana Two
-https://twohls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Persiana Turkiye
+https://turkhls.persiana.live/hls/stream.m3u8
+#EXTINF:0,Persiana Science
+https://scihls.persiana.live/hls/stream.m3u8
 
 
 #EXTINF:0,Persiana Music
@@ -111,8 +141,8 @@ https://4kuhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 https://irbthls.wns.live/hls/stream.m3u8
 #EXTINF:0,PMC Royale
 https://rohls.pmc.live/hls/stream.m3u8
-#EXTINF:0,AFN MUSIC IRAN
-https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,AFN MUSIC
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
 #EXTINF:0,Radio Javan TV
 http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Qmusic HD
@@ -139,20 +169,20 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Dubai Racing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Dubai Racing 3
-http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Sharjah Sport
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,SCC1
+https://cdn.footballii.ir/hls2/ssc1s.m3u8
 #EXTINF:0,ATG TV
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Sportsgrid
-https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Russian Motorsport Television
 https://autopilot.catcast.tv/content/37909/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,MAVTV Motor Sports UK
 https://amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten-ozity.amagi.tv/playlist/amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8?checkedby:iptvcat.com
+#EXTINF:0,AutoMoto TV
+http://100automoto.tv:1935/bgtv1/autotv/chunklist_w1804524230.m3u8
 #EXTINF:0,Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Red Bull TV
@@ -185,69 +215,3 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?check
 https://tastemade-intl-vizioca.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Ifood
 https://ifood-vizio.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:0,IRIB Yazd
-https://t2-cdn.sepehrtv.ir/securelive3/tabansd/576p.m3u8?s=zxFaWJuixpg7_G_Ut569_g&t=1713906857
-#EXTINF:0,IRIB Zanjan
-https://t3-cdn.eirib.ir/securelive3/eshraghsd/576p.m3u8?s=N9crbbUh8Y3MoXWGeNx53A&t=1713906857
-#EXTINF:0,IRIB Abadan
-https://t2-cdn.sepehrtv.ir/securelive3/abadansd/576p.m3u8?s=f4nl-ipiR_YSxKe6pezXDw&t=1713906939
-#EXTINF:0,IRIB Alborz
-https://t3-cdn.eirib.ir/securelive3/alborzsd/576p.m3u8?s=NcKKzthVkEKFh_U8q0wEQQ&t=1713906940
-#EXTINF:0,IRIB Ardebil
-https://s2-cdn.sepehrtv.ir/securelive3/sabalansd/576p.m3u8?s=RPcQAeQ8TJr7olgdq2PSMA&t=1713906941
-#EXTINF:0,IRIB Bojnourd
-https://s4-cdn.sepehrtv.ir/securelive3/khorasanshomalisd/576p.m3u8?s=5Za1WxC2LEuaIKHmk3yIeA&t=1713906941
-#EXTINF:0,IRIB Booshehr
-https://t3-cdn.eirib.ir/securelive3/booshehrsd/576p.m3u8?s=Q8iAyYD6AVm1DCElZiDeiw&t=1713907313
-#EXTINF:0,IRIB Chahar Mahal
-https://t1-cdn.sepehrtv.ir/securelive3/jahanbinsd/576p.m3u8?s=Y2tFJwalH3YT2fJR8QvBXA&t=1713907313
-#EXTINF:0,IRIB Esfahan
-https://t2-cdn.sepehrtv.ir/securelive3/esfehansd/576p.m3u8?s=YufTcylnckgaPOD1zw1Q8Q&t=1713907184
-#EXTINF:0,IRIB Fars
-https://s3-cdn.sepehrtv.ir/securelive3/farssd/576p.m3u8?s=oT0jyg_6f87tnXr-3IzUbw&t=1713907462
-#EXTINF:0,IRIB Gilan
-https://t1-cdn.sepehrtv.ir/securelive3/baransd/576p.m3u8?s=v5l7zSBO2nIWkcaA-fs2ig&t=1713907485
-#EXTINF:0,IRIB Golestan
-https://t1-cdn.sepehrtv.ir/securelive3/golestansd/576p.m3u8?s=OybaKwTqy0tm3jARme7cIQ&t=1713907438
-#EXTINF:0,IRIB Hamedan
-https://t2-cdn.sepehrtv.ir/securelive3/hamedansd/576p.m3u8?s=5Gd0OK-qh6g5pNeLrWMO0w&t=1713907444
-#EXTINF:0,IRIB Mashhad
-https://t3-cdn.eirib.ir/securelive3/khorasanrazavisd/576p.m3u8?s=-ffBGMkugE1qkA2clWn8UA&t=1713907447
-#EXTINF:0,IRIB Kurdestan
-https://t1-cdn.sepehrtv.ir/securelive3/kordestansd/576p.m3u8?s=w-sxjAV2iOKyeMRQ5aq4Hg&t=1713907440
-#EXTINF:0,IRIB Lorestan
-https://t3-cdn.eirib.ir/securelive3/aflaksd/576p.m3u8?s=G0Wo3Ov3rofU99_j8CLv0g&t=1713907723
-#EXTINF:0,IRIB Kermanshah
-https://t2-cdn.sepehrtv.ir/securelive3/kermanshahsd/576p.m3u8?s=zlQ-sTT46pVNsb_38AWx-w&t=1713907723
-#EXTINF:0,IRIB Kish
-https://t3-cdn.eirib.ir/securelive3/kishsd/576p.m3u8?s=XRgk3kGv6vafIgYwbYqRqQ&t=1713907723
-#EXTINF:0,IRIB Hormozgan
-https://s2-cdn.sepehrtv.ir/securelive3/khalijefarssd/576p.m3u8?s=KZGxcDdGmmfC0hopVNvd9w&t=1713907725
-#EXTINF:0,IRIB Ilam
-https://s3-cdn.sepehrtv.ir/securelive3/ilamsd/576p.m3u8?s=eXIY06RYoo-euWnQOp93aA&t=1713907815
-#EXTINF:0,IRIB Kerman
-https://t2-cdn.sepehrtv.ir/securelive3/kermansd/576p.m3u8?s=wN0tyMsEqA833zJ91Fh3bA&t=1713907815
-#EXTINF:0,IRIB Mashhad
-https://s2-cdn.sepehrtv.ir/securelive3/khorasanrazavisd/576p.m3u8?s=fsAwCalp1Dvx0NwZDkvkaw&t=1713907815
-#EXTINF:0,IRIB Khoozestan
-https://t3-cdn.eirib.ir/securelive3/khoozestansd/576p.m3u8?s=vR9Q9t39BRzWxCmoCVCoDg&t=1713907822
-#EXTINF:0,IRIB Markazi
-https://t2-cdn.sepehrtv.ir/securelive3/aftabsd/576p.m3u8?s=cCGWMUVP60Fsdu9yw3XLFQ&t=1713907823
-#EXTINF:0,IRIB Mazandaran
-https://t2-cdn.sepehrtv.ir/securelive3/mazandaransd/576p.m3u8?s=7IQ5tvivUL2i1vZgP3NXZQ&t=1713908064
-#EXTINF:0,IRIB Qazvin
-https://s3-cdn.sepehrtv.ir/securelive3/qazvinsd/576p.m3u8?s=bFiwmvWZJvqwg9jo7vfCJA&t=1713908065
-#EXTINF:0,IRIB Qom
-https://t2-cdn.sepehrtv.ir/securelive3/noorsd/576p.m3u8?s=uiHDmXKAXkQgXIzrmM9N3g&t=1713908066
-#EXTINF:0,IRIB Semnan
-https://t2-cdn.sepehrtv.ir/securelive3/semnansd/576p.m3u8?s=u42hBkZbnBxNO6cqMXR4MQ&t=1713908067
-#EXTINF:0,IRIB Sistan
-https://t1-cdn.sepehrtv.ir/securelive3/hamoonsd/576p.m3u8?s=ucB3oNf_bIM8nNnGtsDOPQ&t=1713908068
-#EXTINF:0,IRIB Sahand
-https://t3-cdn.eirib.ir/securelive3/sahandsd/576p.m3u8?s=Og_WLlOx4JtiuCNKVZUKuQ&t=1713908203
-#EXTINF:0,IRIB Azarbayejan
-https://s3-cdn.sepehrtv.ir/securelive3/azarbayjansd/576p.m3u8?s=MqiX_YbuQTjy-YDBmzvD8A&t=1713908205
-#EXTINF:0,IRIB Yasooj
-https://s4-cdn.sepehrtv.ir/securelive3/denasd/576p.m3u8?s=wXhm7WbW-QNho168cf-RYg&t=1713908206
