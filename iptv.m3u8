@@ -39,8 +39,6 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0720.m3u8
 https://novin-tv.icdndhcp.com/hls/playlist.m3u8
 #EXTINF:0,Irane Farda
 https://hls.iranfarda.live/hls/stream.m3u8
-#EXTINF:0,Peyvand TV
-https://uni6rtmp.tulix.tv/ucur1/Payvand/tracks-v1a1/mono.m3u8
 #EXTINF:0,Hasti TV
 https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:0,Parnian TV
