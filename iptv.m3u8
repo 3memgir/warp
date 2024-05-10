@@ -5,8 +5,6 @@ https://hls.4utv.live/hls/stream.m3u8?checkedby:iptvcat.com
 https://mtchls.wns.live/hls/stream.m3u8
 #EXTINF:0,Royal Citizen
 https://royal-citizen.icdndhcp.com/hls/stream.m3u8
-#EXTINF:0,AFN TV [Not 24/7]
-https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,AVA Family [Not 24/7]
 https://familyhls.avatv.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,AVA Series
@@ -19,8 +17,6 @@ https://toonixhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 https://38b3095.online-server.cloud/hls/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Health Media TV
-https://6n3yowknl9ok-hls-live.5centscdn.com/HMN/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,High Vision [Not 24/7]
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,ITN [Not 24/7]
