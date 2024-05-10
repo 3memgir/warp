@@ -13,12 +13,6 @@ https://avaserieshls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 https://ch1hls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,FX TV 2
 https://toonixhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,GLV
-https://38b3095.online-server.cloud/hls/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Grand Cinema
-https://gcinemahls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,High Vision [Not 24/7]
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,ITN [Not 24/7]
 https://itnhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Iran International (720)
@@ -33,8 +27,6 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0720.m3u8
 https://novin-tv.icdndhcp.com/hls/playlist.m3u8
 #EXTINF:0,Irane Farda
 https://hls.iranfarda.live/hls/stream.m3u8
-#EXTINF:0,Hasti TV
-https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:0,Parnian TV
 https://live2.parnian.tv/hls/live/play.m3u8
 #EXTINF:0,Maah TV
@@ -47,18 +39,10 @@ https://t2hls.wns.live/hls/stream.m3u8
 https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:0,Simaye Azadi
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/02.m3u8
-#EXTINF:0,IraneFarda TV
-https://hls.iranfarda.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Kanal Jadid
 https://kjhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Meta Film TV
-https://metafilmhls.wns.live/hls/stream.m3u8
-#EXTINF:0,Mihan TV
-https://iptv.mihantv.com/mihantv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,ICC TV
 https://icchls.wns.live/hls/stream.m3u8
-#EXTINF:0,Negah TV
-https://iptv.negahtv.com/negahtv/playlist_mid/index.m3u8
 #EXTINF:0,Nama TV
 https://namahls.wns.live/hls/stream.m3u8
 #EXTINF:0,Omide Iran [Not 24/7]
@@ -67,36 +51,16 @@ https://oitnhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 https://parshls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,GordAfarid TV
 https://gatvhls.wns.live/hls/stream.m3u8
-#EXTINF:0,Payam Javan TV
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w87401535.m3u8
-#EXTINF:0,Shabakeh 7
-https://t.northtelecom.org/Shabakeh.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Royal Time Television
 https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Today TV
-https://todayhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,SL 1
-https://slonehls.wns.live/hls/stream.m3u8
-#EXTINF:0,SL 2
-https://sltwohls.wns.live/hls/stream.m3u8
 #EXTINF:0,Classic TV
 https://clshls.wns.live/hls/stream.m3u8
-#EXTINF:0,Tasvire Iran
-https://bozztv.com/1gbw5/tintv/tintv/chunklist.m3u8
-#EXTINF:0,Damac TV
-https://damac-tv.icdndhcp.com/hls/stream.m3u8
 #EXTINF:0,Me2 TV
 https://me2hls.wns.live/hls/stream.m3u8
-#EXTINF:0,Sat 7 Pars
-https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/sat7parspublish/sat7pars_source/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0,TM TV
 https://hls.tmtv.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Tin TV [Not 24/7]
-https://bozztv.com/1gbw5/tintv/tintv/chunklist.m3u8
 #EXTINF:0,ITC TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5e335e0f951c45c39563b840fdecc59a/chunklist_b2592000.m3u8
-#EXTINF:0,Toronto Farsi Network
-https://tfnhls.wns.live/hls/stream.m3u8
 #EXTINF:0,Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Persiana Family
@@ -131,8 +95,6 @@ https://4kuhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 https://irbthls.wns.live/hls/stream.m3u8
 #EXTINF:0,PMC Royale
 https://rohls.pmc.live/hls/stream.m3u8
-#EXTINF:0,AFN MUSIC
-https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
 #EXTINF:0,Radio Javan TV
 http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Qmusic HD
@@ -159,28 +121,18 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.stream.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Dubai Racing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Sharjah Sport
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,SCC1
-https://cdn.footballii.ir/hls2/ssc1s.m3u8
-#EXTINF:0,ATG TV
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Russian Motorsport Television
 https://autopilot.catcast.tv/content/37909/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,MAVTV Motor Sports UK
 https://amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten-ozity.amagi.tv/playlist/amg00378-maverickenterta-mavtv-smn-gb-samsung-rakuten/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,We Love Cars
 https://30a-tv.com/feeds/vidaa/cars.m3u8?checkedby:iptvcat.com
-#EXTINF:0,AutoMoto TV
-http://100automoto.tv:1935/bgtv1/autotv/chunklist_w1804524230.m3u8
 #EXTINF:0,Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8&checkedby:iptvcat.com
 #EXTINF:0,Outside TV
 https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Fox Deportes
-http://stream.flynetwifi.com:1935/live/mobile-104/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,All Sports Television Network
 https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8?checkedby:iptvcat.com
 
@@ -189,14 +141,10 @@ https://2-fss-2.streamhoster.com/pl_118/204972-2205186-1/playlist.m3u8?checkedby
 http://stream02.vnet.am/NatGeoWild/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:0,EUA
 https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Djing Wild EDM
-https://www.djing.com/tv/s-28634-05-wild-edm.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0,EarthCam SouthView
-http://tvpremiumhd.club/lista-gratuita/221424/tv/live.php?id=video3.earthcam.com/fecnetwork/4017timessquare.flv/.m3u8&checkedby:iptvcat.com
 #EXTINF:0,NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?checkedby:iptvcat.com
 
