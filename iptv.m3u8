@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:0,4U TV
-https://hls.4utv.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,MTC
-https://mtchls.wns.live/hls/stream.m3u8
-#EXTINF:0,Royal Citizen
-https://royal-citizen.icdndhcp.com/hls/stream.m3u8
-#EXTINF:0,AVA Family [Not 24/7]
-https://familyhls.avatv.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,AVA Series
-https://avaserieshls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Channel One
-https://ch1hls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,FX TV 2
-https://toonixhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,ITN [Not 24/7]
-https://itnhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Iran International (720)
 https://d234zyvf3b6a4t.cloudfront.net/out/v1/abe3211a88b84dafa7a48b8fb2678895/index_10.m3u8
 #EXTINF:0,Iran International (480)
@@ -27,30 +11,46 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist_0720.m3u8
 https://novin-tv.icdndhcp.com/hls/playlist.m3u8
 #EXTINF:0,Irane Farda
 https://hls.iranfarda.live/hls/stream.m3u8
-#EXTINF:0,Parnian TV
-https://live2.parnian.tv/hls/live/play.m3u8
-#EXTINF:0,Maah TV
-https://hls.maahtv.live/hls/stream.m3u8
-#EXTINF:0,MBC Persia
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#EXTINF:0,Tapesh 2
-https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:0,YourTime TV
-https://hls.yourtime.live/hls/stream.m3u8
 #EXTINF:0,Simaye Azadi
 https://simaytv.akamaized.net/hls/live/2043550/simayhls/02.m3u8
+#EXTINF:0,Channel One
+https://ch1hls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ITN [Not 24/7]
+https://itnhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Kanal Jadid
 https://kjhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,ICC TV
-https://icchls.wns.live/hls/stream.m3u8
-#EXTINF:0,Nama TV
-https://namahls.wns.live/hls/stream.m3u8
 #EXTINF:0,Omide Iran [Not 24/7]
 https://oitnhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Pars
 https://parshls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,GordAfarid TV
 https://gatvhls.wns.live/hls/stream.m3u8
+
+
+#EXTINF:0,MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:0,Tapesh 2
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:0,FX TV 2
+https://toonixhls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,4U TV
+https://hls.4utv.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MTC
+https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:0,Royal Citizen
+https://royal-citizen.icdndhcp.com/hls/stream.m3u8
+#EXTINF:0,AVA Family [Not 24/7]
+https://familyhls.avatv.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,AVA Series
+https://avaserieshls.wns.live/hls/stream.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Parnian TV
+https://live2.parnian.tv/hls/live/play.m3u8
+#EXTINF:0,Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:0,ICC TV
+https://icchls.wns.live/hls/stream.m3u8
+#EXTINF:0,Nama TV
+https://namahls.wns.live/hls/stream.m3u8
 #EXTINF:0,Royal Time Television
 https://190439-castr.akamaized.net/6349a927e11665c18a981dbf/live_8c0bffc04fcd11edb492a53f5f99705a/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Classic TV
@@ -77,14 +77,10 @@ https://korhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 https://latinohls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:0,Persiana Science
-https://scihls.persiana.live/hls/stream.m3u8
 
 
 #EXTINF:0,Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:0,Persiana Rap
-https://raphls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Persiana Sonnati
 https://sonhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Persiana Nostalgia
@@ -145,6 +141,8 @@ https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8?checkedby:iptvcat.com
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0,WildEarth
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Persiana Science
+https://scihls.persiana.live/hls/stream.m3u8
 #EXTINF:0,NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?checkedby:iptvcat.com
 
