@@ -61,8 +61,6 @@ https://me2hls.wns.live/hls/stream.m3u8
 https://hls.tmtv.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,ITC TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/5e335e0f951c45c39563b840fdecc59a/chunklist_b2592000.m3u8
-#EXTINF:0,Persiana Comedy
-https://comedyhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Persiana Family
 https://familyhls.persiana.live/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0,Persiana HD
